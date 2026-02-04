@@ -3,7 +3,7 @@ using UnityEditor;
 
 public class AnimationClipResaver
 {
-    [MenuItem("Tools/Resave All Animation Clips")]
+    [MenuItem("Tools/Legacy-Tool/Resave All Animation Clips")]
     public static void ResaveAllAnimationClips()
     {
         // Find all AnimationClip assets in Assets/

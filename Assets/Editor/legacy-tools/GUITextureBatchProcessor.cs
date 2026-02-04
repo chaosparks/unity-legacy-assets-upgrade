@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 public class GUITextureBatchProcessor : EditorWindow
 {
-    [MenuItem("Tools/批量处理 GUITexture (Add MyGUITexture)")]
+    [MenuItem("Tools/Legacy-Tool/批量处理 GUITexture (Add MyGUITexture)")]
     public static void ProcessAll()
     {
         //以此防止误操作，弹出确认框

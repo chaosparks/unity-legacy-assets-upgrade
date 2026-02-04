@@ -5,7 +5,7 @@ using UnityEditor.Animations;
 
 public class AnimaterControllerResaver
 {
-    [MenuItem("Tools/Resave All AnimatorControllers")]
+    [MenuItem("Tools/Legacy-Tool/Resave All AnimatorControllers")]
     public static void ResaveAllAnimatorControllers()
     {
         // Find all AnimatorController assets in Assets/

@@ -4,7 +4,7 @@ using System.Linq;
 
 public class MaterialResaver
 {
-    [MenuItem("Tools/Resave All Materials")]
+    [MenuItem("Tools/Legacy-Tool/Resave All Materials")]
     public static void ResaveAllMaterials()
     {
         // Find all materials in the Assets folder
